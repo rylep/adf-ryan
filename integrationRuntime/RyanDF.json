@@ -1,0 +1,9 @@
+{
+	"name": "RyanDF",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"selfContainedInteractiveAuthoringEnabled": false
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "adf-dio-ryan",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5d4011ca-3b2f-4039-a743-d11dfcee326f",
+		"tenantId": "bb92243d-b328-4afc-8ca9-2fd83ddd276c"
+	}
+}
